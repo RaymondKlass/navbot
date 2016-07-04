@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name="navbot",
-      version="0.0.01",
+      version="0.0.1",
       author="Raymond Klass",
       author_email="raymondklass@gmail.com",
       description="Nav Bot",
