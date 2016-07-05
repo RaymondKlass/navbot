@@ -70,7 +70,7 @@ class RayRaspberryPi(DriveController):
         self._left_wheel(10)
         self._right_wheel(10)
     
-    def move_backwards(self):
+    def move_backward(self):
         self._left_wheel(-10)
         self._right_wheel(-10)
     
